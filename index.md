@@ -10,6 +10,8 @@
 * Eigenschaft8
 * Eigenschaft9
 
+<img src="https://www.sgi-klm.de/logo_klm.jpg"/> 
+
 
 *This text will be italic*
 _This will also be italic_
