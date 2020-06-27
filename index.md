@@ -20,4 +20,4 @@ __This will also be bold__
 *You **can** combine them*
 
 Zitat: 
-> in the future than in the past.
+> in the future than in the past!
